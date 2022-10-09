@@ -1,0 +1,26 @@
+body{
+    background-color:FFBED8;
+    text-align: center;
+}
+h1{
+    color:rgb(151, 8, 55);
+}
+h2{
+    color: rgb(133, 4, 126);
+}
+h3{
+    color:rgb(136, 7, 7);
+}
+p{
+    color:rgb(65, 21, 61) ;
+    font-style:normal;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+article{
+    color: rgb(41, 2, 2);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+ul{
+    color: rgba(31, 1, 1, 0.733);
+}
